@@ -28,7 +28,7 @@ Easily discover which GitHub users don't follow you back with a sleek, colorful,
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/GitHubUnfollowers.git
+git clone https://github.com/busradeveci/GitHubUnfollowers.git
 cd GitHubUnfollowers
 ````
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### 3. Run the application
 
 ```bash
-streamlit run github_unfollowers_app.py
+streamlit run github_unfollowers.py
 ```
 
 ---
