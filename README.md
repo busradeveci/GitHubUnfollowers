@@ -17,11 +17,8 @@ Easily discover which GitHub users don't follow you back with a sleek, colorful,
 ---
 
 ## 📸 Screenshots
-
-| Main Interface | Colorful Theme |
 ![Screenshot 2](https://github.com/user-attachments/assets/a2ba4f07-eca4-4c15-bed5-fc102ebd0a1d) 
 
----
 
 ## 🚀 Getting Started
 
