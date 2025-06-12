@@ -1,4 +1,4 @@
-# 🐙 GitHub Unfollowers Tracker
+# GitHub Unfollowers Tracker
 
 Easily discover which GitHub users don't follow you back with a sleek, colorful, and modern Streamlit interface.
 
